@@ -1,12 +1,10 @@
-Vuforia-jpct
+ShinAR+ Animation Project
 =========
 
-Qualcomm's Vuforia and JPCT-AE integration.
+Qualcomm's Vuforia and JPCT-AE integration with Bones Library for Animation
 
-The application is configured to work in portrait mode, but it can also work in landscape mode.
-The integration was done following the tutorial: http://www.jpct.net/wiki/index.php/Integrating_JPCT-AE_with_Vuforia
 
-This project is based on ImageTargetsNative sample of Vuforia SDK. 
+This project is based on ImageTargetsNative sample of Vuforia SDK with JPCE-AE and Bones 3D Engine for Animation
 
 Setup
 -----
@@ -14,3 +12,6 @@ Setup
 * Clone this repository into sdk samples folder
 
 [1]: https://developer.vuforia.com/resources/sdk/android
+
+* You need Bones Project for refererence.
+
